@@ -6,3 +6,8 @@ node_modules
 credentials
 .pytest_cachesetup/terraform/terraform.tfstate
 setup/terraform/terraform.tfstate
+setup/terraform/aws/
+setup/terraform/awscliv2.zip
+setup/terraform/*.tfstate
+setup/terraform/*.tfstate.backup
+setup/terraform/.terraform/
